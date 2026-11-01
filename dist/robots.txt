@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://juliano-peres-qa-portfolio.juliano-a-peres.chatgpt.site/sitemap.xml
